@@ -1,4 +1,4 @@
-baseURL: "https://ariff-portfolio.netlify.app"
+baseURL: localhost:1313
 languageCode: en-us
 title: My Portfolio Website
 theme: hugo-lodi-theme
